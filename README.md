@@ -39,4 +39,9 @@ The database follows a standard star-like relational structure:
 | 11 | Who's the top spender in each country (ties included)? | CTE + `RANK()` |
 
 ## 💡 Key Findings
-- **Invoice volume and revenue leadership point to different places**. The USA generates the most invoices of any country (131 — Q2), but Prague has the highest total invoice revenue of any city ($273.24 — Q4). Volume leader and revenue leader aren't the same place.
+- **Invoice volume and revenue leadership point to different places**. The USA generates the most invoices of any country (131), but Prague has the highest total invoice revenue of any city ($273.24). Volume leader and revenue leader aren't the same place.
+- **Rock reaches the entire customer base**. All 59 customers in the dataset have purchased at least one Rock track - a 100% match against the total customer count.
+- **Rock also dominates at the country level, almost everywhere**. Rock is the top-purchased genre in 23 of the 24 countries in the dataset; the remaining country's top genre is Alternative & Punk.
+
+Dataset access: 
+Query access: 
