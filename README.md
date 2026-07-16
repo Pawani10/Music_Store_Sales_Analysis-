@@ -45,4 +45,4 @@ The database follows a standard star-like relational structure:
 
 Dataset access: <a href= "https://github.com/Pawani10/Music_Store_Sales_Analysis-/blob/main/music%20store%20data.zip"> Dataset <a/>
 
-Query access: 
+Query access: <a href= "https://github.com/Pawani10/Music_Store_Sales_Analysis-/blob/main/Music_store_Analysis.sql"> Queries <a/>
