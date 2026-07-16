@@ -43,5 +43,6 @@ The database follows a standard star-like relational structure:
 - **Rock reaches the entire customer base**. All 59 customers in the dataset have purchased at least one Rock track - a 100% match against the total customer count.
 - **Rock also dominates at the country level, almost everywhere**. Rock is the top-purchased genre in 23 of the 24 countries in the dataset; the remaining country's top genre is Alternative & Punk.
 
-Dataset access: 
+Dataset access: <a href= "https://github.com/Pawani10/Music_Store_Sales_Analysis-/blob/main/music%20store%20data.zip"> Dataset <a/>
+
 Query access: 
