@@ -2,7 +2,7 @@
 
 A SQL analysis of a digital music store's sales, customer, and catalog data; modeled on the classic Chinook dataset to answer real business questions about revenue, customer value, and genre/artist performance across markets.
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 This project takes a relational music-store dataset (customers, invoices, tracks, albums, artists, genres) and answers a set of stakeholder-style business questions using PostgreSQL: from "who are our highest-value customers" to "which genre dominates in each country." It's built to demonstrate practical analyst SQL: joins, aggregations, subqueries, CTEs, and window functions applied to questions a sales, marketing, or ops team would actually ask.
 
